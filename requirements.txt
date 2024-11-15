@@ -1,7 +1,7 @@
 asgiref==3.8.1
 boltons==20.0.0
 Brotli==1.0.9
-certifi==2023.10.11
+certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
 colorama==0.4.6
